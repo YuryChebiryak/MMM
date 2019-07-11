@@ -3,7 +3,7 @@
 # MMM - open world survival RPG game with photo realism and elements of horror
 
 MMM is a new open world RPG game with high attention to quality of graphics
-- full photogrametry is used to achieve maximum realism: most objects in the game are modeled using high resolution imagery of physical objects
+- full photogrammetry is used to achieve maximum realism: most objects in the game are modeled using high resolution imagery of physical objects
 - it's NOT an action game: the gameplay is more about strategic advancing, exploring
 - currently featuring over 1'000 different plat models and variations
 - players can combine substances to craft new items and gain new effects
@@ -91,3 +91,7 @@ Required Amount: $200'000
 
 One of the challenges is to keep the disk space down to 200GB. We need this much hard disk space because all the models are extemely high resolution, so it will be 100GB at the very least.
 Another challenge is to maintain game performance at 60 FPS on a midrange PC.
+
+
+----
+keywords for search engines:  Horror; Survival; open world; Exploration; Creative; Game Actions; Building; Crafting; Combining; Realism; Full photogrammetry; Sci-Fi; Lovecraft; dreaful; mystery; loneliness; cosmic horror; contrast warm safe environment dugneons full of monsters; society; warmth; security; civilization; unnamed; unnamable; the color out of space
