@@ -22,7 +22,7 @@ The player tries to survive in this ever-changing environment of vertical massiv
 
 Are soon to come. If you want to be notified, please go ahead subscribe to our youtube channel or follow us on Facebook.
 
-### Launch Trailer
+### Reveal Trailer
 
 Is soon to come. If you want to be notified, please go ahead subscribe to our youtube channel or follow us on Facebook.
 
