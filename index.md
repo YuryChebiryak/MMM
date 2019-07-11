@@ -30,3 +30,42 @@ The player tries to survive in this ever-changing environment of vertical open w
 
 We are gamers and big fans of Lovecraft, and could never find an RPG game with a vast world like in *Fallout* but with some horror elements but not limited to them like *The Forest*. One could say it's a game brought to you from fellow games, we have been influenced by *Diablo*, *GTA*, *Skyrim* and TODO. 
 
+### Why "MMM"?
+
+It all started with a meteorite hitting the Earth. All by itself it didn't cause a huge catastrophe: just few acres of poor old farmer Jack were damaged... but soon things began to change... strange glowing of plants at night... them growing... abundantly... then animals... morphed... into something unnamed... what's next?.. maybe the change is already in you?..
+
+### What is Open World
+
+TODO Stefan in details: absense of loading screens
+
+### Why Crowdfunding?
+
+We were working on the game in a small team of developers for over three years now and were planning to launch the game without involving venture capital or taking a credit. But few months ago our budget intially formed by winning during cryptocurrencies rally dwindled down and we met a decision of starting a KickStarter campaign.
+
+## What is done already
+
+## What is still to be done
+
+
+### Gameplay
+## Environment
+## Crafting
+## Mechanics
+## Weapons
+## Interaction with Environment
+## Interaction with Other Players
+## NPC
+## Multiplayer
+
+### Stretch Goals
+# Game finished and polished delivering AAA quality
+We still need to finish A, B and C
+Required Amount: $90'000
+# Additional modes are implemented
+Campaign, where the player unveils the curse which is upon us, finds ways to deal with morphlings and goes to deepest and darkest abyss to face the unnamed and unnamable horror..
+Required Amount: $110'000
+
+# Additional TODO
+Required Amount: $150'000
+
+# Additional 
