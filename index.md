@@ -53,9 +53,11 @@ We have invested a lot of effort and money into the quality of the game, leaving
 This is a very different approach to most traditional game development studios which invest a considerable amount of effort, time and money into marketing the product. Through the approach which built "title" the highest quality of gameplay experience is targeted, so please tell your friends about the game, **THE GAME NEEDS YOU** to get financed and achieve the quality it strives for and deliver very quickly **WITHOUT LOSING TIME FOR ADVERTISING**. Your support means a lot to us, so please like, share, subscribe, and tell your friends about this game if you like the idea.
 
 ### What is done already
+Game already features 200 different resources which can be combined together and over 400 different pickups.
 
 ### What is still to be done
-
+Our goal is to create an environment where everything is destructible with enough force or appropriate materials in accordance with real life physics.
+We aim to raise the number of different pickups to at least a thousand.
 
 ## Gameplay
 ### Environment
@@ -81,4 +83,7 @@ Required Amount: $150'000
 ### Additional TODO
 Required Amount: $200'000
 
+## Risks and Challenges
 
+One of the challenges is to keep the disk space down to 200GB. We need this much hard disk space because all the models are extemely high resolution, so it will be 100GB at the very least.
+Another challenge is to maintain game performance at 60 FPS on a midrange PC.
