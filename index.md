@@ -46,6 +46,8 @@ TODO Stefan in details: absense of loading screens
 
 We were working on the game in a small team of developers for over three years now and were planning to launch the game without involving venture capital or taking a credit. But few months ago our budget intially formed by winning during cryptocurrencies rally dwindled down and we met a decision of starting a KickStarter campaign.
 
+Among other things, backers on KickStarter will not only get a digital copy of the game but also obtain early access, an in-game item which is given to backers-only and a unique in-game item will be give to the first 500 backers. More details to follow, stay tuned to be the first in line!
+
 ### Support from community
 
 We have invested a lot of effort and money into the quality of the game, leaving no time or effort  for marketing.
