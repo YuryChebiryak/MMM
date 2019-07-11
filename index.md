@@ -16,7 +16,7 @@ MMM is a new open world RPG game with high attention to quality of graphics
 
 ## Overview
 
-The player tries to survive in this ever-changing environment of vertical open world. The game offers wide range of game styles and features. Players can combine items, craft weapons, build shelter and explore this horror filled world. TODO STEFAN ADD MORE STUFF HERE
+The player tries to survive in this ever-changing environment of vertical massive open world (the world is hand crafted instead of being automatically generated). The game offers wide range of game styles and features. Players can combine items, craft weapons, build shelter, explore and try to survive in this horror filled world. TODO STEFAN ADD MORE STUFF HERE
 
 ### Screenshots of Gameplay
 
@@ -28,10 +28,11 @@ Is soon to come. If you want to be notified, please go ahead subscribe to our yo
 
 ## The Idea
 
->The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+> The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+>
 > -- H. P. Lovecraft
 
-We are gamers and big fans of Lovecraft, and could never find an RPG game with a vast world like in *Fallout* but with some horror elements but not limited to them like *The Forest*. One could say it's a game brought to you from fellow games, we have been influenced by *Diablo*, *GTA*, *Skyrim* and TODO. Some guys on the dev team are games since ZX Spectrum and upon release you can expect this game to be a wild mixture of genres with unique mechanics, game actions and atmosphere.
+We are gamers and big fans of Lovecraft, and could never find an RPG game with a vast world like in **Fallout** but with some horror elements but not limited to them like **The Forest**. One could say it's a game brought to you from fellow games, we have been influenced by **Diablo**, **GTA**, **Skyrim** and TODO STEFAN WHAT ELSE HAS INSPIRED YOU. Some guys on the dev team are gamers since ZX Spectrum era (**Nether Earth** and **Elite** 1984 being their first games played) and upon release you can expect this game to be a wild mixture of genres with unique mechanics, game actions and atmosphere.
 
 ### Why "MMM"?
 
@@ -44,6 +45,12 @@ TODO Stefan in details: absense of loading screens
 ## Why Crowdfunding?
 
 We were working on the game in a small team of developers for over three years now and were planning to launch the game without involving venture capital or taking a credit. But few months ago our budget intially formed by winning during cryptocurrencies rally dwindled down and we met a decision of starting a KickStarter campaign.
+
+### Support from community
+
+We have invested a lot of effort and money into the quality of the game, leaving no time or effort  for marketing.
+
+This is a very different approach to most traditional game development studios which invest a considerable amount of effort, time and money into marketing the product. Through the approach which built "title" the highest quality of gameplay experience is targeted, so please tell your friends about the game, **THE GAME NEEDS YOU** to get financed and achieve the quality it strives for and deliver very quickly **WITHOUT LOSING TIME FOR ADVERTISING**. Your support means a lot to us, so please like, share, subscribe, and tell your friends about this game if you like the idea.
 
 ### What is done already
 
