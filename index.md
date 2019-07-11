@@ -1,37 +1,32 @@
+[editor](https://github.com/YuryChebiryak/MORPHED/edit/master/index.md)
 ## MMM - open world survival RPG game with photo realism and elements of horror
 
-You can use the [editor on GitHub](https://github.com/YuryChebiryak/MORPHED/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MMM is a new open world RPG game with high attention to quality of graphics
+- full photogrametry is used to achieve maximum realism: most objects in the game are modeled using high resolution imagery of physical objects
+- it's NOT an action game: the gameplay is more about strategic advancing, exploring
+- currently featuring over 1'000 different plat models and variations
+- players can combine substances to craft new items and gain new effects
+- resources can be used to craft towers, armors, vehicles, weapons
+- although not purely a horror game, it's often terrifying 
+- the goal of the game is to survive in this open world which morphes constantly
+- features single player; multiplayer co-op campain and survival; multiplayer battle royale modes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Screenshots of Gameplay
 
-### Markdown
+Are soon to come. If you want to be notified, please go ahead subscribe to our youtube channel or follow us on Facebook.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Launch Trailer
 
-```markdown
-Syntax highlighted code block
+Is soon to come. If you want to be notified, please go ahead subscribe to our youtube channel or follow us on Facebook.
 
-# Header 1
-## Header 2
-### Header 3
+### Overview
 
-- Bulleted
-- List
+The player tries to survive in this ever-changing environment of vertical open world. The game offers wide range of game styles and features. Players can combine items, craft weapons, build shelter and explore this horror filled world. TODO STEFAN ADD MORE STUFF HERE
 
-1. Numbered
-2. List
+### The Idea
 
-**Bold** and _Italic_ and `Code` text
+>The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+> -- H. P. Lovecraft
 
-[Link](url) and ![Image](src)
-```
+We are gamers and big fans of Lovecraft, and could never find an RPG game with a vast world like in *Fallout* but with some horror elements but not limited to them like *The Forest*. One could say it's a game brought to you from fellow games, we have been influenced by *Diablo*, *GTA*, *Skyrim* and TODO. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuryChebiryak/MORPHED/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
