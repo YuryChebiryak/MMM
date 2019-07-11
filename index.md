@@ -55,6 +55,8 @@ This is a very different approach to most traditional game development studios w
 ### What is done already
 Game already features 200 different resources which can be combined together and over 400 different pickups.
 
+Technically third person and first person both are implemented to allow switching. Based on user feedback still possible to exclude third person to heighten the realistic experience. The goal here is to communicate directly with the backers through polls and chats to find out what is most desireable.
+
 ### What is still to be done
 Our goal is to create an environment where everything is destructible with enough force or appropriate materials in accordance with real life physics.
 We aim to raise the number of different pickups to at least a thousand.
