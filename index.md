@@ -61,7 +61,12 @@ Technically third person and first person both are implemented to allow switchin
 
 ### What is still to be done
 Our goal is to create an environment where everything is destructible with enough force or appropriate materials in accordance with real life physics.
+
 We aim to raise the number of different pickups to at least a thousand.
+
+Much better graphics than in trailer. Still work in progress, normal maps, roughness maps and subsurface maps in many assets not completed.
+
+Handmade vertical open world.
 
 ## Gameplay
 ### Environment
